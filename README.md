@@ -10,7 +10,7 @@ Download the file and edit the user settings to your liking
 
 To install all requirements
 ```bash
- pip -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 After that the script should run just fine.
